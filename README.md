@@ -59,4 +59,4 @@ A summary of infrastructure problems I have worked on in freelance and lab roles
 - **AI & Inference:** vLLM, ONNX Runtime, RAG / MCP, Ollama, PyTorch, XGBoost/LightGBM
 - **Infra:** AWS (EC2 GPU, S3, IAM), GCP, Vast.ai, Terraform, Docker / Compose, systemd, GitHub Actions
 
-**Contact:** [gorav.works@gmail.com](mailto:gorav.works@gmail.com)
+**Contact:** [gorav.works@gmail.com](mailto:gorav.works@gmail.com) *Available with US/PST & EU timezone overlap*
